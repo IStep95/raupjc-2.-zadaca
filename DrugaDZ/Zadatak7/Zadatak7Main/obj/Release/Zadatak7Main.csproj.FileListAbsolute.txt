@@ -1,0 +1,5 @@
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak7\Zadatak7Main\bin\Release\Zadatak7Main.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak7\Zadatak7Main\bin\Release\Zadatak7Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak7\Zadatak7Main\bin\Release\Zadatak7Main.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak7\Zadatak7Main\obj\Release\Zadatak7Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak7\Zadatak7Main\obj\Release\Zadatak7Main.pdb

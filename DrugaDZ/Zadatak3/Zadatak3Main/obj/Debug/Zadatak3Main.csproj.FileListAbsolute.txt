@@ -1,0 +1,6 @@
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak3Main\bin\Debug\Zadatak3Main.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak3Main\bin\Debug\Zadatak3Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak3Main\bin\Debug\Zadatak3Main.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak3Main\obj\Debug\Zadatak3Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak3Main\obj\Debug\Zadatak3Main.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak3Main\obj\Debug\Zadatak3Main.csprojResolveAssemblyReference.cache

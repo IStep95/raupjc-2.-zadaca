@@ -1,0 +1,6 @@
+c:\users\ivo\documents\visual studio 2015\Projects\DrugaDZ\DrugaDZ\bin\Debug\DrugaDZ.exe.config
+c:\users\ivo\documents\visual studio 2015\Projects\DrugaDZ\DrugaDZ\bin\Debug\DrugaDZ.exe
+c:\users\ivo\documents\visual studio 2015\Projects\DrugaDZ\DrugaDZ\bin\Debug\DrugaDZ.pdb
+c:\users\ivo\documents\visual studio 2015\Projects\DrugaDZ\DrugaDZ\obj\Debug\DrugaDZ.csprojResolveAssemblyReference.cache
+c:\users\ivo\documents\visual studio 2015\Projects\DrugaDZ\DrugaDZ\obj\Debug\DrugaDZ.exe
+c:\users\ivo\documents\visual studio 2015\Projects\DrugaDZ\DrugaDZ\obj\Debug\DrugaDZ.pdb

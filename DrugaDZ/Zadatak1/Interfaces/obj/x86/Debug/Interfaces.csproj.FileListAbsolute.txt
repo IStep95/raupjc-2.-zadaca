@@ -1,0 +1,14 @@
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Interfaces\bin\x86\Debug\Interfaces.dll
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Interfaces\bin\x86\Debug\Interfaces.pdb
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Interfaces\bin\x86\Debug\ClassLibrary.dll
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Interfaces\bin\x86\Debug\ClassLibrary.pdb
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Interfaces\obj\x86\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Interfaces\obj\x86\Debug\Interfaces.dll
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Interfaces\obj\x86\Debug\Interfaces.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak1\Interfaces\bin\x86\Debug\Interfaces.dll
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak1\Interfaces\bin\x86\Debug\Interfaces.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak1\Interfaces\bin\x86\Debug\ClassLibrary.dll
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak1\Interfaces\bin\x86\Debug\ClassLibrary.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak1\Interfaces\obj\x86\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak1\Interfaces\obj\x86\Debug\Interfaces.dll
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak1\Interfaces\obj\x86\Debug\Interfaces.pdb

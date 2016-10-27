@@ -1,0 +1,8 @@
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\bin\Release\Zadatak8Main.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\bin\Release\Zadatak8Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\bin\Release\Zadatak8Main.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\bin\Release\Zadatak7Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\bin\Release\Zadatak7Main.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\obj\Release\Zadatak8Main.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\obj\Release\Zadatak8Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak8\Zadatak8Main\obj\Release\Zadatak8Main.pdb

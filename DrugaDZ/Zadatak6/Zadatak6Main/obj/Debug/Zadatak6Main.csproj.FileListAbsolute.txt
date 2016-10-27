@@ -1,0 +1,9 @@
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Zadatak6Main\bin\Debug\Zadatak6Main.exe.config
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Zadatak6Main\bin\Debug\Zadatak6Main.exe
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Zadatak6Main\bin\Debug\Zadatak6Main.pdb
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Zadatak6Main\obj\Debug\Zadatak6Main.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Zadatak6Main\obj\Debug\Zadatak6Main.exe
+C:\Users\Ivo\documents\visual studio 2015\Projects\DrugaDZ\Zadatak6Main\obj\Debug\Zadatak6Main.pdb
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak6\Zadatak6Main\bin\Debug\Zadatak6Main.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak6\Zadatak6Main\obj\Debug\Zadatak6Main.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\DrugaDZ\Zadatak6\Zadatak6Main\obj\Debug\Zadatak6Main.pdb
